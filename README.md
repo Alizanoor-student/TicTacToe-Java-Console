@@ -2,7 +2,6 @@
 
 This is a simple **Tic Tac Toe** game built in **Java** using basic programming concepts. It runs in the **console** and allows **two players** to take turns marking spaces in a 3×3 grid.
 
----
 
  Features
 
@@ -13,8 +12,6 @@ This is a simple **Tic Tac Toe** game built in **Java** using basic programming 
   - A draw
   - Invalid moves
 
----
-
  Concepts Used
 
 - Arrays
@@ -23,15 +20,12 @@ This is a simple **Tic Tac Toe** game built in **Java** using basic programming 
 - Methods and logic
 - Scanner for input
 
----
 
  Technologies Used
 
 - Java (JDK 8+)
 - IntelliJ IDEA or any Java IDE
 - Git for version control
-
----
 
  How to Run
 
